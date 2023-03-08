@@ -1,0 +1,150 @@
+.img-master {
+
+    width: 300px;
+    border-radius: 50px;
+}
+
+.header-new {
+    border-bottom: .3px solid rgb(225, 196, 50);
+}
+
+.text-navbar-new {
+    font-family: 'Courgette';
+}
+
+.foto-profil {
+    width: 300px;
+}
+
+.card-new{
+    border: .3px solid rgb(34, 196, 205);  
+    border-radius: 10px;  
+}
+
+.garis {
+    width:max-content;
+    border-bottom: 2px solid goldenrod;
+
+    .text-judul {
+        color: rgb(133, 136, 134);
+        transition: .3s;
+    }
+
+    .text-judul:hover{
+        font-weight: bold;
+        color: goldenrod;
+        
+    }
+}
+
+.garis:hover {
+    width: 60%;
+}
+
+.text-profesi {
+    color: rgb(51, 163, 186);
+}
+
+.card-pendidikan {
+    border: .3px solid goldenrod;
+    border-radius: 10px;
+}
+
+.card-pendidikan:hover {
+    box-shadow: 1px 1px 10px rgb(204, 203, 203);
+    background-color: white;
+    
+}
+
+.card-proyek {
+    border: .3px solid rgb(34, 197, 34);
+    border-radius: 10px;
+}
+
+.card-proyek:hover {
+    box-shadow: 1px 1px 10px rgb(204, 203, 203);
+    background-color: white;
+    
+}
+
+.img-card-pendidikan {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+.img-kemampuan {
+    width: 50px;
+    
+}
+
+
+.text-master {
+    font-weight: bold;
+}
+
+.img-skill {
+    width: 80px;    
+}
+
+.card-pengalaman {   
+    border-radius: none;
+}
+
+
+.card-pengalaman-new {
+    border: none;
+}
+
+.card-kemampuan {
+    border: .2px solid rgb(74, 197, 242);
+}
+
+
+.card-login {
+    border: none;
+}
+
+.img-pengalaman {
+
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+
+p {
+    font-size: 14px;
+}
+
+
+.container-login {
+    margin-top: 5%;
+}
+
+
+
+.container-form-login {
+    border-radius: 20px;
+    border: none;
+    border-bottom: 3px solid rgb(211, 202, 75);
+}
+
+.btn-login {
+    background-color: rgb(211, 202, 75);
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.btn-login:hover{
+    background-color: goldenrod;
+}
+
+.img-login {
+    width: 630px;
+}
+
+// .body-login {
+//         background-image: url('../img/background/wolves-1341881_1920.jpg');
+//     }
